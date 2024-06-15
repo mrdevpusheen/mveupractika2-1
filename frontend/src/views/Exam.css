@@ -1,0 +1,82 @@
+.Exam h1{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 140%;
+    text-align: center;
+    width: 1201px;
+    height: 134px;
+}
+.Exam img{
+    margin-left: 422px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.Exam p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+    margin-bottom: 10px;
+}
+.Block9{
+    width: 636px;
+    height: 313px;
+    margin: 0 auto;
+}
+.Block10 h3{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 140%;
+    margin-left: 642px;
+}
+.Block10{
+    margin: 0 auto;
+    box-sizing: border-box;
+    justify-content: center;
+}
+.Block10 ul{
+    margin-left: 665px;
+    list-style: square;
+}
+.Block10 ::marker{
+    color: red;
+}
+.Block10 li{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+    margin-bottom: 10px;
+}
+.Block10 p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+    width: 898px;
+    height: 66px;
+}
+.listinfo li{
+    width: 613px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+}
+.listinfo{
+    margin-top: 40px;
+    margin-right: 574px;
+}
+.buttonlist{
+    display: flex;
+}
+.buttonitem{
+    list-style: none;
+    width: 84px;
+    height: 42px;
+    /* accent */
+    background: rgb(236, 27, 46);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 10px;
+}

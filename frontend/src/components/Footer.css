@@ -1,0 +1,82 @@
+.Footer{
+    width: auto;
+    height: 588px;
+    background-color: rgb(206, 206, 206);
+}
+.Footer h2{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 140%;
+    text-transform: uppercase;
+    color: rgb(51, 51, 51);
+
+}
+.itemsemiitem{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 140%;
+}
+.forusitemitem{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 140%;
+    list-style: none;
+}
+.forusitem{
+    width: 200px;
+    height: 398px;
+    list-style: none;
+}
+.footeritem{
+    width: 221px;
+    height: 192px;
+}
+.footerlist{
+    display: flex;
+}
+.examitem1{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 140%;
+    list-style: none;
+}
+.exam{
+    list-style: none;
+}
+.exam h3{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 140%;
+}
+.School{
+    list-style: none;
+}
+.School h3{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 140%;
+}
+.schoolitem{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 140%;
+    list-style: none;
+}
+.chinaitem{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 140%;
+    list-style: none;
+}
+.china{
+    list-style: none;
+}
+.Pay{
+    list-style: none;
+}
+.payitem{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 140%;
+    list-style: none;
+}

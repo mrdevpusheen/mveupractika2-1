@@ -1,0 +1,53 @@
+.spanbackground{
+/* accent */
+background: rgb(236, 27, 46);
+width: 8px;
+height: 8px;
+align-self: center;
+}
+.breadcrumbs{
+    display: flex;
+    width: 257px;
+    margin-right: 1393px;
+}
+.PayShedule h1{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 140%;
+}
+.Block7{
+    display: flex;
+}
+.Block7Text h2{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 140%;
+}
+.Block7Text p{
+    width: 636px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+}
+.borderbackground{
+    box-sizing: border-box;
+    /* accent */
+    border: 5px solid rgb(236, 27, 46);
+    width: 636px;
+    height: 139px;
+}
+.Block8Text{
+    width: 636px;
+}
+.Block8Text p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+}
+.Block8{
+    display: flex;
+    justify-content: space-between;
+}
+.PayShedule img{
+    margin-left: 422px;
+}

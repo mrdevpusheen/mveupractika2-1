@@ -1,0 +1,318 @@
+.Main{
+    width: auto;
+    height: 5220px;
+    margin: 0 auto;
+}
+.Mainscreen{
+    width: 100%;
+    height: 700px;
+    background: url('../img/mainscreen.png') center center/cover no-repeat;
+}
+.backgroundopacity{
+    width: 586px;
+    height: 310px;
+    background: rgba(51, 51, 51, 0.5);
+    margin: 0 auto;
+}
+.backgroundopacity p{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 140%;
+}
+.maintile button{
+    color: rgb(255, 255, 255);
+    width: 163px;
+    height: 58px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 140%;
+    background: rgb(236, 27, 46);
+    border: none;
+    cursor: pointer;
+}
+.block1{
+    width: auto;
+    height: 746px;
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    box-sizing: border-box;
+    /* accent */
+    border: 10px solid rgb(236, 27, 46);
+    width: 638px;
+    height: 405px;
+}
+.frame{
+    width: 414px;
+    height: 87px;
+    /* white */
+    background: rgb(255, 255, 255);
+    margin-top: -45px;
+    margin-left: 29px;
+}
+.frame h3{
+    color: rgb(51, 51, 51);
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 140%;
+}
+.box p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 140%;
+    width: 458px;
+    color: rgb(51, 51, 51);
+    margin-bottom: 44px;
+}
+.block2{
+    width: auto;
+    height: 1368px;
+    margin: 0 auto;
+}
+.block2 h1{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 140%;
+    text-align: center;
+}
+.p1{
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+    width: 175px;
+    height: 68px;
+    /* accent */
+    background: rgb(236, 27, 46);
+    text-align: center;
+    cursor: pointer;
+}
+.data{
+    display: flex;
+    justify-content: space-between;
+    max-width: 514px;
+    margin-left: 485px;
+    margin-top: 52px;
+    margin: 0 auto;
+}
+.block2 ul{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1296px;
+    margin-left: 312px;
+    margin-top: 30px;
+    margin: 0 auto;
+}
+.block2 li{
+    width: 306px;
+    height: 68px;
+    list-style: none;
+    color: rgb(51, 51, 51);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 140%;
+    text-align: center;
+}
+.Table{
+    display: flex;
+    max-width: 1076px;
+    width: 100%; margin: 0 auto;
+    margin-top: 100px;
+}
+.table1{
+    width: 1076px;
+    height: 175.5px;
+}
+.tableitem{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 140%;
+    background: rgba(51, 51, 51, 0.05);
+    text-align: left;
+}
+.table1mainitem{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 140%;
+    background: rgba(51, 51, 51, 0.05);
+    width: 180px;
+    height: 48px;
+}
+.table2mainitem{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 140%;
+    background: rgba(51, 51, 51, 0.05);
+    width: 300px;
+    height: 48px;
+}
+.table3mainitem{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 140%;
+    background: rgba(51, 51, 51, 0.05);
+    width: 596px;
+    height: 48px;
+}
+.table1item{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 140%;
+    margin-top: 40px;
+}
+.table2item{
+    margin-top: 40px;
+}
+.table2item p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 140%;
+    margin-bottom: 18px;
+}
+.table3item{
+    margin-top: 40px;
+}
+.table3item span{
+    background: rgb(236, 27, 46);
+    color: rgb(255, 255, 255);
+}
+.table3item p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 140%;
+    margin-bottom: 18px;
+}
+.line1{
+    border: 1px solid rgb(51, 51, 51);
+    opacity: 0.2;
+    margin-top: 140px;
+}
+.line2{
+    border: 1px solid rgb(51, 51, 51);
+    opacity: 0.2;
+    margin-top: 97.5px;
+}
+.line3{
+    border: 1px solid rgb(51, 51, 51);
+    opacity: 0.2;
+    margin-top: 25.5px;
+}
+.Exams h2{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 140%;
+    text-align: center;
+}
+.examitem{
+    width: 306px;
+    height: 585px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.examitem h3{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 140%;
+}
+.examitem li{
+    width: 266px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+}
+.examlist{
+    display: flex;
+    margin-top: 100px;
+}
+.examitem button{
+    color: rgb(255, 255, 255);
+    /* accent */
+    background: rgb(236, 27, 46);
+    width: 163px;
+    height: 58px;
+    border:  none;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 140%;
+}
+.Events h2{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 140%;
+    text-align: center;
+}
+.Events ul{
+    display: flex;
+}
+.Events li{
+    width: 416px;
+    height: 539px;
+    list-style: none;
+}
+.Events h3{
+    width: 400px;
+    height: 68px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 140%;
+}
+.Events p{
+    font-weight: 400;
+    line-height: 140%;
+    width: 378px;
+    height: 88px;
+}
+.Events button{
+    width: 163px;
+    height: 58px;
+    /* accent */
+    background: rgb(236, 27, 46);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 140%;
+    border: none;
+}
+.SchoolNews h2{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 140%;
+    text-align: center;
+}
+.SchoolNews ul{
+    display: flex;
+}
+.SchoolNews li{
+    width: 306px;
+    height: 352px;
+}
+.SchoolNews h3{
+    width: 354px;
+    height: 102px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 140%;
+}
+.SchoolNews p{
+    width: 320px;
+    height: 132px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+}
+.SchoolNews button{
+    width: 163px;
+    height: 58px;
+    /* accent */
+    background: rgb(236, 27, 46);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 140%;
+    border: none;
+}

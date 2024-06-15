@@ -1,0 +1,124 @@
+.Header{
+    width: auto;
+    height: 180px;
+}
+.list{
+    max-width: 1296px;
+    width: 100%;
+    height: 140px;
+    margin: 0 auto;
+}
+.upheader{
+    width: 1296px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.upheader p{
+    color: rgb(236, 27, 46);
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 140%;
+    text-align: left;
+    text-transform: uppercase;
+    width: 217px;
+}
+.upheader ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 674px;
+}
+.adress{
+    list-style-image: url("../icon/icon.png");
+    color: rgb(51, 51, 51);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 140%;
+}
+.number{
+    list-style-image: url("../icon/icon2.png");
+    color: rgb(51, 51, 51);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 140%;
+}
+.email{
+    list-style-image: url("../icon/icon3.png");
+    color: rgb(51, 51, 51);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 140%;
+}
+.line{
+    /* black */
+    border: 1px solid rgb(51, 51, 51);
+    opacity: 0.3;
+}
+.downheader{
+    width: 1296px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.downheader ul{
+    display: flex;
+    align-items: center;
+}
+.downheader li{
+    list-style: none;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 140%;
+    text-transform: uppercase;
+}
+.item1{
+    margin-right: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.item2{
+    margin-right: 20px;
+    cursor: pointer;
+}
+.item3{
+    margin-right: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.item4{
+    margin-right: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.item5{
+    margin-right: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.item6{
+    margin-right: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.item7{
+    margin-right: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.item8{
+    margin-right: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.item9{
+    margin-right: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.item0{
+    margin-right: 20px;
+    cursor: pointer;
+    text-align: center;
+}

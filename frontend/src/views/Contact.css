@@ -1,0 +1,33 @@
+.map{
+    margin-left: 312px;
+}
+.Blockcontact{
+    display: flex;
+}
+.phone ul{
+    list-style: none;
+}
+.emailcontact ul{
+    list-style: none;
+}
+.itemworld{
+    list-style-image: url("../img/Vector.png");
+    margin-bottom: 18px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 140%;
+}
+.directorsschedule ul{
+    list-style: square;
+}
+.directorsschedule ::marker{
+    color: red;
+}
+.Contact{
+    margin: 0 auto;
+    box-sizing: border-box;
+    max-width: 1600px;
+}
+.operatingmode ul{
+    list-style: none;
+}
